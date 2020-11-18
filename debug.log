@@ -1,0 +1,3 @@
+[1019/114015.114:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/171220.897:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\NEC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\81611360-42bb-4b02-8d7c-2c5e9ce7e785: The system cannot find the path specified. (0x3)
+[1019/173631.484:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
